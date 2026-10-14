@@ -51,4 +51,8 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     implementation(libs.litertlm.android)
 
+    // Pruebas locales (src/test): corren en la JVM de tu computadora, sin emulador ni modelo.
+    testImplementation(libs.junit)
+    testImplementation(libs.kotlinx.coroutines.test)
+
 }
