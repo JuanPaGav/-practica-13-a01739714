@@ -1,4 +1,4 @@
-# Práctica 13 — Redacta
+   # Práctica 13 — Redacta
 
 Código de arranque de la app de la Práctica 13 de TC2007B.
 

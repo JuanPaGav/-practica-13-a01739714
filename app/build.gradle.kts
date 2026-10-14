@@ -49,4 +49,6 @@ dependencies {
     implementation(libs.androidx.hilt.lifecycle.viewmodel.compose)
 
     debugImplementation(libs.androidx.ui.tooling)
+    implementation(libs.litertlm.android)
+
 }
